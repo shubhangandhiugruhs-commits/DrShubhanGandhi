@@ -1,0 +1,15 @@
+{
+  "name": "Dr. SHUBHAN GANDHI, B.D.S. (FPFA, USA) — Official Website",
+  "short_name": "Dr. SHUBHAN GANDHI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#111019",
+  "theme_color": "#111019",
+  "icons": [
+    {
+      "src": "assets/brand/sg-monogram.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
